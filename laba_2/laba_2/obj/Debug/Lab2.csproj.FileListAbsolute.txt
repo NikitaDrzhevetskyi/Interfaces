@@ -1,0 +1,60 @@
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\MainWindow.g.cs
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\App.g.cs
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+D:\VS\ЛМІ\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\VS\ЛМІ\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\VS\ЛМІ\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\MainWindow.baml
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\Lab2.g.resources
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\VS\ЛМІ\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\MainWindow.g.cs
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\App.g.cs
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\MainWindow.baml
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.g.resources
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\38098\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\MainWindow.g.cs
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\App.g.cs
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\MainWindow.baml
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\Lab2.g.resources
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\38098\Desktop\lab2-interfaces-polonevich-ipz-19-1-2-master\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Людино-машинний інтерфейс\lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Людино-машинний інтерфейс\lab2\Lab2\bin\Debug\Lab2.exe
+C:\Людино-машинний інтерфейс\lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\MainWindow.g.cs
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\App.g.cs
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\MainWindow.baml
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\Lab2.g.resources
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\Lab2.exe
+C:\Людино-машинний інтерфейс\lab2\Lab2\obj\Debug\Lab2.pdb

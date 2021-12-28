@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/favorite" android:id="@+id/id_favorite"/>
+    <item android:title="@string/topic1">
+        <menu>
+            <item android:title="@string/topic1.1" android:id="@+id/id_topic1.1"/>
+            <item android:title="@string/topic1.2" android:id="@+id/id_topic1.2"/>
+            <item android:title="@string/topic1.3" android:id="@+id/id_topic1.3"/>
+        </menu>
+    </item>
+    <item android:title="@string/topic2">
+        <menu>
+            <item android:title="@string/topic2.1" android:id="@+id/id_topic2.1"/>
+            <item android:title="@string/topic2.2" android:id="@+id/id_topic2.2"/>
+            <item android:title="@string/topic2.3" android:id="@+id/id_topic2.3"/>
+        </menu>
+    </item>
+    <item android:title="@string/topic3">
+        <menu>
+            <item android:title="@string/topic3.1" android:id="@+id/id_topic3.1"/>
+            <item android:title="@string/topic3.2" android:id="@+id/id_topic3.2"/>
+            <item android:title="@string/topic3.3" android:id="@+id/id_topic3.3"/>
+        </menu>
+    </item>
+
+</menu>

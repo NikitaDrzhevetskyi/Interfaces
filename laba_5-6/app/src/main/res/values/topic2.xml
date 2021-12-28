@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topic2.1">
+        <item>
+            TOPIC2.1 !!!
+        </item>
+    </string-array>
+    <string-array name="topic2.2">
+        <item>
+            TOPIC2.2 !!!
+        </item>
+    </string-array>
+    <string-array name="topic2.3">
+        <item>
+            TOPIC2.3 !!!
+        </item>
+    </string-array>
+    <string-array name="topic2.1_title">
+        <item>
+            TOPIC2.1 !!!
+        </item>
+    </string-array>
+    <string-array name="topic2.2_title">
+        <item>
+            TOPIC2.2 !!!
+        </item>
+    </string-array>
+    <string-array name="topic2.3_title">
+        <item>
+            TOPIC2.3 !!!
+        </item>
+    </string-array>
+</resources>

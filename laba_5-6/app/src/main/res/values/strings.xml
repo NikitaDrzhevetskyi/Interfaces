@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">interfaces</string>
+    <string name="favorite">избранные</string>
+    <string name="topic1">topic1</string>
+    <string name="topic1.1">topic1.1</string>
+    <string name="topic1.2">topic1.2</string>
+    <string name="topic1.3">topic1.3</string>
+    <string name="topic2">topic2</string>
+    <string name="topic2.1">topic2.1</string>
+    <string name="topic2.2">topic2.2</string>
+    <string name="topic2.3">topic2.3</string>
+    <string name="topic3">topic3</string>
+    <string name="topic3.1">topic3.1</string>
+    <string name="topic3.2">topic3.2</string>
+    <string name="topic3.3">topic3.3</string>
+</resources>
